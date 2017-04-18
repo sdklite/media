@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CanvasView">
+        <attr name="canvasViewGestureEnabled" format="boolean" />
+        <attr name="canvasViewGuidelineVisible" format="boolean" />
+        <attr name="canvasViewGuidelineThickness" format="dimension" />
+        <attr name="canvasViewGuidelineColor" format="dimension" />
+        <attr name="canvasViewGuidelineColumns" format="integer" />
+        <attr name="canvasViewGuidelineRows" format="integer" />
+        <attr name="canvasViewGuidelineBorderThickness" format="dimension" />
+        <attr name="canvasViewGuidelineBorderColor" format="dimension" />
+        <attr name="canvasViewGuidelineCornerThickness" format="dimension" />
+        <attr name="canvasViewGuidelineCornerLength" format="dimension" />
+        <attr name="canvasViewGuidelineCornerColor" format="color" />
+        <attr name="canvasViewScaleRate" format="float" />
+        <attr name="canvasViewMaxScale" format="float" />
+    </declare-styleable>
+
+</resources>
